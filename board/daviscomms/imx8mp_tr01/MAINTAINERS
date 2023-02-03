@@ -1,0 +1,6 @@
+i.MX8MP TR01 BOARD
+M:	Jimmy <kcchea@daviscomms.com.sg>
+S:	Maintained
+F:	board/daviscomms/imx8mp_tr01/
+F:	include/configs/imx8mp_tr01.h
+F:	configs/imx8mp_tr01_defconfig
