@@ -197,10 +197,6 @@
 	/delete-property/ assigned-clock-rates;
 };
 
-&flexspi {
-	assigned-clock-parents = <&clk IMX8MP_SYS_PLL1_400M>;
-};
-
 &usb3_0 {
 	/delete-property/ power-domains;
 };
